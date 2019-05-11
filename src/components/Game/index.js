@@ -4,7 +4,7 @@ import Header from "../Header";
 import Container from "../Container";
 import ClickItem from "../ClickItem";
 import Footer from "../Footer";
-import data from "../../data.json";
+import data from "../../data.json.js";
 
 class Game extends Component {
   state = {
