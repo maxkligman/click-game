@@ -1,9 +1,9 @@
 .footer {
   background: 
-  #6956AF;
+green;
   height: 100px;
   position: relative;
-  color: white;
+  color: brown;
   overflow: auto;
 }
 
@@ -12,7 +12,7 @@
   bottom: 0;
   left: 0;
   right: 0;
-  background:#5138A1;
+  background:greenyellow;
   padding: 8px;
   font-weight: 600;
 }
